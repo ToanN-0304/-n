@@ -18,7 +18,9 @@ YÊU CẦU HỆ THỐNG
 HƯỚNG DẪN SỬ DỤNG
 
 Cách mở:
+
 -Mở CSDL: Mở sql server management studio -> chuột phải vào Databases -> chọn attach -> chọn add -> chọn QLSV.MDF trong "File CSDL SQL" -> chọn ok
+
 -Mở phần mềm: Mở "File VB.NET" -> nhấp đúp chuột trái vào QLSVV.sln hoặc chuột phải vào QLSVV.sln -> chọn Open with -> chọn microsoft visual studio
 
 Sử dụng phần mềm, người dùng thực hiện các bước sau:
