@@ -1,8 +1,10 @@
 GIỚI THIỆU PHẦN MỀM
+
 Phần mềm Quản lý Sinh viên là ứng dụng desktop được xây dựng trên nền tảng Microsoft .NET Framework với ngôn ngữ lập trình Visual Basic.NET, tích hợp hệ quản trị cơ sở dữ liệu SQL Server.
 Hệ thống cung cấp đầy đủ các chức năng quản lý thông tin sinh viên bao gồm: thêm mới, sửa, xóa và tra cứu dữ liệu. 
 
 YÊU CẦU HỆ THỐNG
+
 Để phần mềm hoạt động ổn định, hệ thống cần cài đặt các ứng dụng sau:
 
 -Hệ điều hành: Windows 7 trở lên (khuyến nghị Windows 10/11)
@@ -14,6 +16,7 @@ YÊU CẦU HỆ THỐNG
 -Visual Studio 2015 trở lên 
 
 HƯỚNG DẪN SỬ DỤNG
+
 Để sử dụng phần mềm, người dùng thực hiện các bước sau:
 
 -Thêm sinh viên: Click nút "Thêm", nhập đầy đủ thông tin sinh viên vào các trường dữ liệu, sau đó nhấn "Đồng ý"
